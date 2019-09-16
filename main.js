@@ -3,7 +3,7 @@ jQuery(document).ready( function($) {
     var discountCA = 0.8;
     var discountCB = 0.7;
     var discountCC = 0.6;
-	var discountCD = 0.5;
+    var discountCD = 0.5;
 
 	$("#search-button").click(function (){
 
