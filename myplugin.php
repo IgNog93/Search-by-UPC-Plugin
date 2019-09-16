@@ -1,7 +1,7 @@
 <?php 
 /**
  * Plugin Name: Search by UPC
- * Description: This is a plugin that allows us to search products information thru an External UPC Database
+ * Description: This is a plugin that allows us to search products information through an External UPC Database
  * Version: 1.0.0
  * Author: Igor Nogueira
  * Author URI: http://igornogueira.br
